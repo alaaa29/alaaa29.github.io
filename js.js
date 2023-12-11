@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Set the starting point of the countdown in seconds
-    let countdownValue = localStorage.getItem('countdownValue') || 950400; // Default to 1 hour if not in local storage
+    let countdownValue = localStorage.getItem('countdownValue') || 63849600; // Default to 1 hour if not in local storage
   
     // Function to update the countdown
     function updateCountdown() {
